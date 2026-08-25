@@ -162,28 +162,45 @@
     <a href="https://nercovalch.uk/evaluacion-imper/" target="_blank" class="btn-primary">Acceder al Módulo</a>
         </div>
             </div>
-            <!-- MÓDULO 8: Sistema Académico (ACTIVO) -->
-            <div class="module-card">
-                <div class="card-header">
-                    <h3>Sistema Académico</h3>
-                    <span class="status-badge active">Activo</span>
-                </div>
-                <div class="card-body">
-                    <div class="card-image-container" style="background: linear-gradient(135deg, #11998e, #38ef7d); display: flex; align-items: center; justify-content: center; height: 160px; color: white; border-radius: 8px; margin-bottom: 15px;">
-                        <div style="text-align: center;">
-                            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-bottom: 8px;"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"></path><path d="M6 6h10M6 10h10"></path></svg>
-                            <span style="display: block; font-weight: bold; font-size: 15px;">Gestión Escolar</span>
-                        </div>
-                    </div>
-                    <p><strong>Qué contiene:</strong> Control de estudiantes, profesores, asignación de materias, calificaciones y generación de reportes académicos.</p>
-                    <p><strong>Resultados del informe:</strong> Paneles de administración seguros, gestión de notas por períodos y listados oficiales actualizados en tiempo real.</p>
-                </div>
-                <div class="card-footer">
-                    <a href="https://nercovalch.uk/sistema_academico/" target="_blank" class="btn-primary">Acceder al Módulo</a>
-                </div>
+            <!-- MÓDULO 8: Sistema Académico (EN DESARROLLO) -->
+<div class="module-card">
+    <div class="card-header">
+        <h3>Sistema Académico</h3>
+        <span class="status-badge pending">En Desarrollo</span>
+    </div>
+    <div class="card-body">
+        <div class="card-image-container" style="background: linear-gradient(135deg, #10b981, #059669);">
+            <div style="text-align: center;">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/></svg>
+                <span style="display: block; font-weight: bold; font-size: 15px; color: white;">Sistema Académico</span>
             </div>
+        </div>
+        <p><strong>Qué contiene:</strong> Control de estudiantes, profesores, asignación de materias, calificaciones y generación de reportes académicos.</p>
+        <p><strong>Resultados del informe:</strong> Paneles de administración seguros, gestión de notas por períodos y listados oficiales actualizados en tiempo real.</p>
+    </div>
+</div>
+<!-- MÓDULO 9: Sistema de Gestión de Almacén y Materiales - Tesis (ACTIVO) -->
+<div class="module-card">
+    <div class="card-header">
+        <h3>Gestión de Almacén (Tesis)</h3>
+        <span class="status-badge active">Activo</span>
+    </div>
+    <div class="card-body">
+        <div class="card-image-container" style="background: linear-gradient(135deg, #3b82f6, #1d4ed8);">
+            <div style="text-align: center;">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+                <span style="display: block; font-weight: bold; font-size: 15px; color: white;">Proyecto de Tesis</span>
+            </div>
+        </div>
+        <p><strong>Qué contiene:</strong> Control de inventario, entradas, salidas y gestión de materiales con validación de usuarios y base de datos.</p>
+        <p><strong>Resultados del informe:</strong> Trazabilidad completa de insumos, reportes automatizados y control de accesos seguros por roles.</p>
+    </div>
+    <div class="card-footer">
+        <a href="https://tesis.nercovalch.uk" target="_blank" class="btn-primary">Acceder al Módulo</a>
+    </div>
+</div>
 
-            <!-- MÓDULO 9: Sistema de Gestión Escolar / Colegio (EN DESARROLLO) -->
+            <!-- MÓDULO 10: Sistema de Gestión Escolar / Colegio (EN DESARROLLO) -->
             <div class="module-card">
                 <div class="card-header">
                     <h3>Sistema de Gestión Escolar</h3>
