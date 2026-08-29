@@ -145,7 +145,7 @@
                 </div>
             </div>
 
-            <!-- MÓDULO 7: Software de Impermeabilización (EN DESARROLLO) -->
+            <!-- MÓDULO 7: Software de Impermeabilización (ACTIVO) -->
             <div class="module-card">
                 <div class="card-header">
                     <h3>Software de Impermeabilización</h3>
@@ -162,11 +162,12 @@
     <a href="https://nercovalch.uk/evaluacion-imper/" target="_blank" class="btn-primary">Acceder al Módulo</a>
         </div>
             </div>
-            <!-- MÓDULO 8: Sistema Académico (EN DESARROLLO) -->
+        
+<!-- MÓDULO 8: Sistema Académico (ACTIVO) -->
 <div class="module-card">
     <div class="card-header">
         <h3>Sistema Académico</h3>
-        <span class="status-badge pending">En Desarrollo</span>
+        <span class="status-badge active">Activo</span>
     </div>
     <div class="card-body">
         <div class="card-image-container" style="background: linear-gradient(135deg, #10b981, #059669);">
@@ -177,6 +178,9 @@
         </div>
         <p><strong>Qué contiene:</strong> Control de estudiantes, profesores, asignación de materias, calificaciones y generación de reportes académicos.</p>
         <p><strong>Resultados del informe:</strong> Paneles de administración seguros, gestión de notas por períodos y listados oficiales actualizados en tiempo real.</p>
+    </div>
+    <div class="card-footer">
+        <a href="https://nercovalch.co.uk/sistema-academico/" target="_blank" class="btn-primary">Acceder al Módulo</a>
     </div>
 </div>
 <!-- MÓDULO 9: Sistema de Gestión de Almacén y Materiales - Tesis (ACTIVO) -->
