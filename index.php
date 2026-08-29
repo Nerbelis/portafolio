@@ -180,7 +180,7 @@
         <p><strong>Resultados del informe:</strong> Paneles de administración seguros, gestión de notas por períodos y listados oficiales actualizados en tiempo real.</p>
     </div>
     <div class="card-footer">
-        <a href="https://nercovalch.co.uk/sistema-academico/" target="_blank" class="btn-primary">Acceder al Módulo</a>
+        <a href="https://nercovalch.uk/sistema-academico/" target="_blank" class="btn-primary">Acceder al Módulo</a>
     </div>
 </div>
 <!-- MÓDULO 9: Sistema de Gestión de Almacén y Materiales - Tesis (ACTIVO) -->
