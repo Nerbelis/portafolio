@@ -232,7 +232,12 @@
                 <strong>Nota Legal y Descargo de Responsabilidad:</strong> Este sitio web y los sistemas modulares aquí presentados operan estrictamente como un portafolio de desarrollo de software y demostración de ingeniería. Las aplicaciones y simuladores expuestos se muestran con fines informativos y técnicos, y no constituyen la operación directa de una institución financiera, casa de cambio comercial ni entidad educativa oficial. La autora ofrece servicios profesionales de ingeniería civil e informática para el diseño y desarrollo de sistemas a medida para terceros interesados.
             </p>
             <p>&copy; 2026 Desarrollado por Ing. Civil e Informático Nerbelis Valdeblanques / Propiedad de Nercovalch. Todos los derechos reservados.</p>
+            <p style="margin-top: 8px;">
+            <a href="https://nercovalch.uk/politica_privacidad.html" target="_blank" style="color: inherit; text-decoration: underline;">Política de Privacidad</a>
+            </p>
         </div>
+
+
     </footer>
 
 </body>
