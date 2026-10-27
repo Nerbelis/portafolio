@@ -204,24 +204,6 @@
     </div>
 </div>
 
-            <!-- MÓDULO 10: Sistema de Gestión Escolar / Colegio (EN DESARROLLO) -->
-            <div class="module-card">
-                <div class="card-header">
-                    <h3>Sistema de Gestión Escolar</h3>
-                    <span class="status-badge pending">En Desarrollo</span>
-                </div>
-                <div class="card-body">
-                    <div class="card-image-container">
-                        <img src="img/caratula_colegio.jpg" alt="Carátula Sistema Escolar" onerror="this.src='https://images.unsplash.com/photo-1580582932707-520aed937b7b?auto=format&fit=crop&w=600&q=80'">
-                    </div>
-                    <p><strong>Qué contiene:</strong> Control académico, administración de matrículas, asistencia y perfiles diferenciados para profesores y estudiantes.</p>
-                    <p><strong>Resultados del informe:</strong> Boletines automatizados, reportes de rendimiento y control financiero institucional.</p>
-                </div>
-                <div class="card-footer">
-                    <span class="btn-disabled">Próximamente</span>
-                </div>
-            </div>
-
         </div>
     </main>
 
