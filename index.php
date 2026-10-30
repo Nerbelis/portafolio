@@ -64,7 +64,7 @@
                     <p><strong>Resultados del informe:</strong> Experiencia de lectura fluida, control de progreso de usuario y acceso multiplataforma.</p>
                 </div>
                 <div class="card-footer">
-                    <a href="https://audiolibro_english.nercovalch.uk" target="_blank" class="btn-primary">Acceder al Módulo</a>
+                    <a href="https://audiolibro-english.nercovalch.uk" target="_blank" class="btn-primary">Acceder al Módulo</a>
                 </div>
             </div>
 
