@@ -32,66 +32,10 @@
 
         <div class="modules-grid">
             
-            <!-- MÓDULO 1: Semaforización Vial (ACTIVO) -->
-            <div class="module-card">
-                <div class="card-header">
-                    <h3>Módulo de Semaforización Vial</h3>
-                    <span class="status-badge active">Activo</span>
-                </div>
-                <div class="card-body">
-                    <div class="card-image-container">
-                        <img src="sistema_semaforo/assets/caratula.jpg" alt="Carátula Módulo de Semaforización" onerror="this.src='https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&q=80'">
-                    </div>
-                    <p><strong>Qué contiene:</strong> Algoritmos de cálculo de ciclos (fórmula de Webster), análisis de capacidad vial y validación de soportes estructurales.</p>
-                    <p><strong>Resultados del informe:</strong> Tiempos óptimos de verde, rojo, fases de tráfico y reportes técnicos listos para proyectos viales.</p>
-                </div>
-                <div class="card-footer">
-                      <a href="https://semaforo.nercovalch.uk" class="btn-primary" target="_blank">Acceder al Módulo</a>
-                </div>
-            </div>
+        
+            
 
-            <!-- MÓDULO 2: Módulo de Audiolibros / Libros (ACTIVO) -->
-            <div class="module-card">
-                <div class="card-header">
-                    <h3>Módulo de Audiolibros / Libros</h3>
-                    <span class="status-badge active">Activo</span>
-                </div>
-                <div class="card-body">
-                    <div class="card-image-container">
-                        <img src="img/caratula_audiolibro.jpg" alt="Carátula Audiolibros" onerror="this.src='https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80'">
-                    </div>
-                    <p><strong>Qué contiene:</strong> Reproductor interactivo, índices de contenido digital y gestión de capítulos para material educativo y técnico.</p>
-                    <p><strong>Resultados del informe:</strong> Experiencia de lectura fluida, control de progreso de usuario y acceso multiplataforma.</p>
-                </div>
-                <div class="card-footer">
-                    <a href="https://audiolibro-english.nercovalch.uk" target="_blank" class="btn-primary">Acceder al Módulo</a>
-                </div>
-            </div>
-
-            <!-- MÓDULO 3: Evaluación de Cerca Perimetral (ACTIVO) -->
-            <div class="module-card">
-                <div class="card-header">
-                    <h3>Evaluación Cerca Perimetral</h3>
-                    <span class="status-badge active">Activo</span>
-                </div>
-                <div class="card-body">
-                    <div class="card-image-container" style="background: linear-gradient(135deg, #2c3e50, #3498db); display: flex; align-items: center; justify-content: center; height: 160px; color: white; border-radius: 8px; margin-bottom: 15px;">
-                        <div style="text-align: center;">
-                            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin-bottom: 8px;"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path></svg>
-                            <span style="display: block; font-weight: bold; font-size: 15px;">Cerca Perimetral</span>
-                        </div>
-                    </div>
-                    <p><strong>Qué contiene:</strong> Análisis estructural de estabilidad, diseño de soportes y evaluación de esfuerzos según normativas vigentes.</p>
-                    <p><strong>Resultados del informe:</strong> Cómputos métricos exactos de excavación, concreto, paredes, friso y certificación técnica en PDF.</p>
-                </div>
-                <div class="card-footer">
-                    <div class="card-footer">
-                     <a href="https://nercovalch.uk/cerca-perimetral/valuacion" target="_blank" class="btn-primary">Acceder al Módulo</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- MÓDULO 4: Sala Sanitaria / ValuaBaño (ACTIVO) -->
+            <!-- MÓDULO 1: Sala Sanitaria / ValuaBaño (ACTIVO) -->
             <div class="module-card">
                 <div class="card-header">
                     <h3>Diseño de Sala Sanitaria (ValuaBaño)</h3>
@@ -109,7 +53,7 @@
                 </div>
             </div>
 
-            <!-- MÓDULO 5: Análisis Biométrico NVR IMC (ACTIVO) -->
+            <!-- MÓDULO 2: Análisis Biométrico NVR IMC (ACTIVO) -->
             <div class="module-card">
                 <div class="card-header">
                     <h3>Análisis Biométrico (NVR IMC)</h3>
@@ -127,7 +71,7 @@
                 </div>
             </div>
 
-            <!-- MÓDULO 6: NVR Exchange (ACTIVO) -->
+            <!-- MÓDULO 3: NVR Exchange (ACTIVO) -->
             <div class="module-card">
                 <div class="card-header">
                     <h3>Sistema NVR Exchange</h3>
@@ -145,7 +89,7 @@
                 </div>
             </div>
 
-            <!-- MÓDULO 7: Software de Impermeabilización (ACTIVO) -->
+            <!-- MÓDULO 4: Software de Impermeabilización (ACTIVO) -->
             <div class="module-card">
                 <div class="card-header">
                     <h3>Software de Impermeabilización</h3>
@@ -163,7 +107,7 @@
         </div>
             </div>
         
-<!-- MÓDULO 8: Sistema Académico (ACTIVO) -->
+<!-- MÓDULO 5: Sistema Académico (ACTIVO) -->
 <div class="module-card">
     <div class="card-header">
         <h3>Sistema Académico</h3>
@@ -183,26 +127,7 @@
         <a href="https://sistema-academico.nercovalch.uk" target="_blank" class="btn-primary">Acceder al Módulo</a>
     </div>
 </div>
-<!-- MÓDULO 9: Sistema de Gestión de Almacén y Materiales - Tesis (ACTIVO) -->
-<div class="module-card">
-    <div class="card-header">
-        <h3>Gestión de Almacén (Tesis)</h3>
-        <span class="status-badge active">Activo</span>
-    </div>
-    <div class="card-body">
-        <div class="card-image-container" style="background: linear-gradient(135deg, #3b82f6, #1d4ed8);">
-            <div style="text-align: center;">
-                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
-                <span style="display: block; font-weight: bold; font-size: 15px; color: white;">Proyecto de Tesis</span>
-            </div>
-        </div>
-        <p><strong>Qué contiene:</strong> Control de inventario, entradas, salidas y gestión de materiales con validación de usuarios y base de datos.</p>
-        <p><strong>Resultados del informe:</strong> Trazabilidad completa de insumos, reportes automatizados y control de accesos seguros por roles.</p>
-    </div>
-    <div class="card-footer">
-        <a href="https://tesis.nercovalch.uk" target="_blank" class="btn-primary">Acceder al Módulo</a>
-    </div>
-</div>
+
 
         </div>
     </main>
