@@ -12,16 +12,21 @@
 </head>
 <body>
 
-    <!-- Header / Portada Principal con Logo -->
-    <header class="main-header">
-        <div class="container header-content">
-            <img src="logo.png" alt="Logo Ner Covalch" class="logo-img">
-            <div class="header-text">
-                <h1>Modulos y Herramientas Nercovalch</h1>
-                <p class="subtitle">Soluciones de Ingeniería Civil, Desarrollo de Software y Sistemas Modulares</p>
-            </div>
+   <!-- Header / Portada Principal con Logo -->
+<header class="main-header">
+    <!-- Botón de Retorno a la Página Principal -->
+    <div class="nav-inicio-container" style="padding: 10px 20px; text-align: right;">
+        <a href="https://nercovalch.uk" class="btn-inicio-web" style="color: #ffffff; text-decoration: none; font-weight: 500; background: rgba(0,0,0,0.3); padding: 6px 14px; border-radius: 4px; transition: background 0.3s;">⬅️ Inicio Web</a>
+    </div>
+
+    <div class="container header-content">
+        <img src="logo.png" alt="Logo Ner Valch" class="logo-img">
+        <div class="header-text">
+            <h1>Modulos y Herramientas Nercovalch</h1>
+            <p class="subtitle">Soluciones de Ingeniería Civil, Desarrollo de Software y Sistemas Modulares</p>
         </div>
-    </header>
+    </div>
+</header>
 
     <!-- Sección de Módulos (Portafolio y Herramientas) -->
     <main class="container">
